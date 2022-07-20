@@ -60,7 +60,7 @@ paginate_path: "/page/:num"
 # Pages path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename:output_ext
 
@@ -73,6 +73,6 @@ include:
 
 # Exclude from processing.
 exclude:
- - Gemfile
- - Gemfile.lock
- - vendor
+  - Gemfile
+  - Gemfile.lock
+  - vendor
