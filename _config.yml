@@ -1,13 +1,13 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+title: 月亮邮递员
+description: 一位来自江西会昌的洋光老表
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-title: 月亮邮递员
+hero-description: 一位来自江西会昌的洋光老表
 
 # Author - Creator
 author-name: Ben Campbell
@@ -40,7 +40,7 @@ pinterest: https://pinterest.com/
 youtube: https://www.youtube.com/
 
 # Contact Form Settings
-contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
+contact-subtitle: just br beated. # Title for the subscription form.
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
