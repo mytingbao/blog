@@ -106,5 +106,10 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 <iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 
+
+ *一盏灯*， 一片昏黄；**一简书**， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。
+
+
+
 ### link
 * [codota](https://www.codota.com/) AI代码智能提示（应用于代码编辑器）
