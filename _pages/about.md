@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于我
 image: 8.jpg
 ---
 My name is Winston.
