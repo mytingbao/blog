@@ -86,7 +86,7 @@ $(function () {
 
     $(this).addClass("is-loading").text("Loading...");
 
-    $.get("/blog/blog/page/" + nextPage, function (data) {
+    $.get("/blog/page/" + nextPage, function (data) {
       var htmlData = $.parseHTML(data);
       var $articles = $(htmlData).find("article");
 
