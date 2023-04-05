@@ -4,7 +4,7 @@ title:  GitHub Actions 定时运行代码：每天定时百度链接推送
 date: 2019-12-28 11:09:50 +0800
 img: 13.jpg
 tags: [GitHub技巧]
-author: fangfang
+author: pingping
 description: GitHub Actions 定时运行代码：每天定时百度链接推送
 ---
 
