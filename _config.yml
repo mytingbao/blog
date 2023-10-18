@@ -1,18 +1,18 @@
 # Site settings
-title: 月亮邮递员
+title: 橙默
 description: 一位来自江西会昌的洋光老表
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: 月亮邮递员
+hero-title: 橙默
 hero-description: 一位来自江西会昌的洋光老表
 
 # Author - Creator
 author-name: Winston
 author-image: 10.jpg
-about-author: My name is Winston. I'm like pingping my godness.
+about-author: My name is Winston.
 author-email: help.example@gmail.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
@@ -32,8 +32,8 @@ authors:
     author-pinterest: https://pinterest.com/
   pingping:
     author-name: pingping
-    author-image: 113.jpg
-    about-author: My name is pingping. I love winston.
+    author-image: 10.jpg
+    about-author: I love winston.
     author-email: natali.example@gmail.com
     author-twitter: https://twitter.com/
     author-facebook: https://twitter.com/
